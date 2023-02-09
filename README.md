@@ -4,4 +4,4 @@
 
 <h3>My Language Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=252525)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justizha&show_icons=true&bg_color=#fff)
