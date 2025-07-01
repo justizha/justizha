@@ -2,7 +2,7 @@
 
 <p>Definitly a developer , currently working on a fullstack project ,mostly my interest are in frontend , some music and games. </p>
 
-<p>There's nothing much here  you can just visit my [`website`](https://justizha.netlify.app/) i guess...</p>
+There's nothing much here  you can just visit my [website](https://justizha.netlify.app/) i guess...
 
 
 
