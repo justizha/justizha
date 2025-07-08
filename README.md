@@ -3,5 +3,5 @@
 <p>There's nothing much here, you can just visit my <a href="https://justizha.netlify.app/">website</a> I guess...</p>
 <br>
 <div align="center">
-  <img src="https://github.com/justizha/random_images/blob/main/cat.jpg?raw=true" alt="cat" width="600">
+  <img src="https://github.com/justizha/random_images/blob/main/cat.jpg?raw=true" alt="cat" width="450">
 </div>
