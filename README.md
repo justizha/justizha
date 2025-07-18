@@ -5,3 +5,6 @@
 <div align="center">
   <img src="https://github.com/justizha/random_images/blob/main/cat.jpg?raw=true" alt="cat" width="450">
 </div>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=justizha&theme=radical&show_icons=true&hide_border=true)
