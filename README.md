@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/justizha/random_images/blob/main/anime_car.jpeg" width="700" />
+  <img src="https://github.com/justizha/random_images/blob/main/anime_car.jpeg" width="650" />
 </p>
 
 <hr/>
