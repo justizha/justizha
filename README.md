@@ -9,10 +9,5 @@
 <hr/>
 
 <p align="center">
-  Definitely a developer. Mostly frontend brain, backend hands.
-  Also into music and games when I'm not staring at a terminal.
-</p>
-
-<p align="center">
   There's nothing much here, you can just visit my <a href="https://justizha.netlify.app/">website</a> I guess...
 </p>
