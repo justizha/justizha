@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/justizha/random_images/blob/main/anime_car.jpeg" width="650" />
+  <img src="https://github.com/justizha/random_images/blob/main/anime_car.jpeg" width="450" />
 </p>
 
 <p align="center">
