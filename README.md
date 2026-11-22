@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <i>P.S. — there's nothing much here, you can just visit my <a href="https://justizha.netlify.app/">website</a>, I guess...</i>
+  <i>P.S. — there's nothing much here, you can just visit my <a href="https://justizha.izha.workers.dev/">website</a>, I guess...</i>
 </p>
